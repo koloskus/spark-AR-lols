@@ -10,7 +10,7 @@ I'll explain more about all this later.
 
 But if you want to try this out on your phone:
 
-1. Download Spark AR Studio
+1. Download [Spark AR Studio](https://www.sparkar.com/ar-studio/)
 2. Download these files
 3. Download Spark AR Player on your phone
 4. Open one of these files
